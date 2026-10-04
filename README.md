@@ -2,6 +2,12 @@ Beta Version 0.2 of the Dirt 5 Mod (Steam Version)
 
 Further updates with improvements and optimizations are expected.
 
+
+Instructions:
+
+Add the files from the archive to the game folder and run the Launcher.
+
+
 Support the developer
 
 Buy their game, CYBRID, on Steam or the Quest Store.
