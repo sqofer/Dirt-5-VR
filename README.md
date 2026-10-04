@@ -7,6 +7,10 @@ Instructions:
 
 Add the files from the archive to the game folder and run the Launcher.
 
+
+New 0.3) Add FSR and FXAA
+
+
 Recetr: CTRL button
 
 Support the developer
