@@ -1,0 +1,2 @@
+#include "launcher_resources.h"
+IDI_LAUNCHER ICON "assets/Dirt5.ico"
