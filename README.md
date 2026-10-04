@@ -7,6 +7,7 @@ Instructions:
 
 Add the files from the archive to the game folder and run the Launcher.
 
+Recetr: CTRL button
 
 Support the developer
 
