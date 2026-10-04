@@ -13,6 +13,11 @@ New 0.3) Add FSR and FXAA
 
 Recetr: CTRL button
 
+
+For a more stable picture, set it as shown in the image
+
+![D5Set](D5Set.png )
+
 Support the developer
 
 Buy their game, CYBRID, on Steam or the Quest Store.
